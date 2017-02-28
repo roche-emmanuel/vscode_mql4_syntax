@@ -8,9 +8,9 @@ Please check the [project description page](http://wiki.nervtech.org/doku.php?id
 
 The MQL4 syntax highlight extension will colorize your .mq4, .mq5 and .mqh when working on the MetaTrader projects, as show on the following screenshots.
 
-\!\[Default MQL4 syntax highlight\]\(images/mql4_view.png\)
+![Default MQL4 syntax highlight](images/mql4_view.png)
 
-\!\[Default MQL5 syntax highlight\]\(images/mql5_view.png\)
+![Default MQL5 syntax highlight](images/mql5_view.png)
 
 
 ## Release Notes

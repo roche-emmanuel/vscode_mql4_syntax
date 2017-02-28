@@ -17,3 +17,7 @@ The MQL4 syntax highlight extension will colorize your .mq4, .mq5 and .mqh when 
 ### 1.0.0 - 28/02/2017
 
 Initial release of MQL4 Syntax Highlighting extension.
+
+### 1.0.1 - 28/02/2017
+
+Just trying to display the README images properly.

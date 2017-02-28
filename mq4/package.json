@@ -9,7 +9,7 @@
         "email": "roche.emmanuel@gmail.com",
         "url": "http://nervtech.org"
     },
-    "icon": "images/mt4-logo-128px.png",
+    "icon": "images/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/roche-emmanuel/vscode_mql4_syntax.git"

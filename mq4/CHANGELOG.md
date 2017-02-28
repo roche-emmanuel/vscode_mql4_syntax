@@ -1,7 +1,4 @@
-# Change Log
-All notable changes to the "mq4" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.x
 
-## [Unreleased]
-- Initial release
+- Initial release of the MQL4 Syntax Highlighting extension.

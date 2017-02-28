@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs3338">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4167">
+      <circle
+         style="opacity:0.92000002;fill:#ffffff;fill-opacity:1"
+         id="circle4169"
+         cx="512"
+         cy="540.36218"
+         r="425.71426"
+         clip-path="none" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-67.857143"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3341">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362161)">
+    <rect
+       style="fill:#000000;fill-opacity:1"
+       id="rect4148"
+       width="25.714285"
+       height="40"
+       x="888.57141"
+       y="500.93359" />
+    <g
+       id="g4160"
+       clip-path="url(#clipPath4167)"
+       transform="matrix(1.057047,0,0,1.057047,-29.208064,-30.826063)">
+      <rect
+         y="37.505074"
+         x="10.571442"
+         height="1005.7142"
+         width="1002.8571"
+         id="rect3344"
+         style="fill:#008080;fill-opacity:1" />
+      <rect
+         y="337.505"
+         x="12.000031"
+         height="405.71429"
+         width="999.99994"
+         id="rect4146"
+         style="fill:#000000;fill-opacity:1" />
+      <rect
+         y="393.2193"
+         x="10.571442"
+         height="294.28571"
+         width="1002.8571"
+         id="rect4150"
+         style="fill:#ffffff;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4152"
+         y="605.98718"
+         x="229.33398"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+           y="605.98718"
+           x="229.33398"
+           id="tspan4154"
+           sodipodi:role="line">MQL4</tspan></text>
+    </g>
+  </g>
+</svg>

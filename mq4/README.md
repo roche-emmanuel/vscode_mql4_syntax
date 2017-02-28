@@ -29,3 +29,7 @@ Adding MT4 icon on project.
 ### 1.0.3 - 28/02/2017
 
 Fixed images link.
+
+### 1.0.4 - 28/02/2017
+
+Updated extension logo

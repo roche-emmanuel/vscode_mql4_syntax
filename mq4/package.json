@@ -2,16 +2,17 @@
     "name": "mq4",
     "displayName": "MQL4 Syntax Highlight",
     "description": "MQL4",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "nervtech",
     "author": {
         "name": "Emmannuel Roche",
         "email": "roche.emmanuel@gmail.com",
         "url": "http://nervtech.org"
     },
-    "repository" : { 
-        "type" : "git", 
-        "url" : "https://github.com/roche-emmanuel/vscode_mql4_syntax.git"
+    "icon": "images/mt4-logo-128px.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roche-emmanuel/vscode_mql4_syntax.git"
     },
     "engines": {
         "vscode": "^1.5.0"
@@ -20,16 +21,29 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "mq4",
-            "aliases": ["MQL4", "mq4"],
-            "extensions": [".mql4",".mq4",".mql5",".mq5",".mqh"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "mq4",
-            "scopeName": "source.mq4",
-            "path": "./syntaxes/mq4.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "mq4",
+                "aliases": [
+                    "MQL4",
+                    "mq4"
+                ],
+                "extensions": [
+                    ".mql4",
+                    ".mq4",
+                    ".mql5",
+                    ".mq5",
+                    ".mqh"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "mq4",
+                "scopeName": "source.mq4",
+                "path": "./syntaxes/mq4.tmLanguage"
+            }
+        ]
     }
 }

@@ -8,9 +8,9 @@ Please check the [project description page](http://wiki.nervtech.org/doku.php?id
 
 The MQL4 syntax highlight extension will colorize your .mq4, .mq5 and .mqh when working on the MetaTrader projects, as show on the following screenshots.
 
-\!\[Default MQL4 syntax highlight\]\(images/mql4_view.png\)
+![Default MQL4 syntax highlight](mq4/images/mql4_view.png)
 
-\!\[Default MQL5 syntax highlight\]\(images/mql5_view.png\)
+![Default MQL5 syntax highlight](mq4/images/mql5_view.png)
 
 ## Release Notes
 
@@ -25,3 +25,7 @@ Just trying to display the README images properly.
 ### 1.0.2 - 28/02/2017
 
 Adding MT4 icon on project.
+
+### 1.0.3 - 28/02/2017
+
+Fixed images link.

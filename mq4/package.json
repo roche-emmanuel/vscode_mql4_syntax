@@ -2,8 +2,17 @@
     "name": "mq4",
     "displayName": "MQL4 Syntax Highlight",
     "description": "MQL4",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "nervtech",
+    "author": {
+        "name": "Emmannuel Roche",
+        "email": "roche.emmanuel@gmail.com",
+        "url": "http://nervtech.org"
+    },
+    "repository" : { 
+        "type" : "git", 
+        "url" : "https://github.com/roche-emmanuel/vscode_mql4_syntax.git"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },

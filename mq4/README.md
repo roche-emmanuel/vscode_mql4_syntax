@@ -1,65 +1,22 @@
-# mq4 README
+# MQL4 Syntax Highlighting
 
-This is the README for your extension "mq4". After writing up a brief description, we recommend including the following sections.
+This extension can be used to highlight the MQL 4 & 5 syntax in visual studio code. It is based on the MQL4 tmLanguage file available from **currencysecrets** github page: https://github.com/currencysecrets/mql4/blob/master/Syntaxes/MQL4.tmLanguage
+
+This project description page is available on my website at: http://wiki.nervtech.org/doku.php?id=public:projects:vscode_mql4_syntax:vscode_mql4_syntax
+
+And the project is available on github at: https://github.com/roche-emmanuel/vscode_mql4_syntax
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+The MQL4 syntax highlight extension will colorize your .mq4, .mq5 and .mqh when working on the MetaTrader projects, as show on the following screenshots.
 
-For example if there is an image subfolder under your extension project workspace:
+\!\[Default MQL4 syntax highlight\]\(images/mql4_view.png\)
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[Default MQL5 syntax highlight\]\(images/mql5_view.png\)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 1.0.0 - 28/02/2017
 
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Initial release of MQL4 Syntax Highlighting extension.

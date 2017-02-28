@@ -1,0 +1,26 @@
+{
+    "name": "mq4",
+    "displayName": "MQL4 Syntax Highlight",
+    "description": "MQL4",
+    "version": "0.0.1",
+    "publisher": "nervtech",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "mq4",
+            "aliases": ["MQL4", "mq4"],
+            "extensions": [".mql4",".mq4",".mql5",".mq5",".mqh"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "mq4",
+            "scopeName": "source.mq4",
+            "path": "./syntaxes/mq4.tmLanguage"
+        }]
+    }
+}
